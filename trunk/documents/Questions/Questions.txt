@@ -1,0 +1,7 @@
+Business:
+What is the budget / production sum?
+
+Communication:
+Requirement to freqency band for communication?
+Can we assume that all persons/groups are equipped with a GPS? GPS connection is always available?
+Can we assume that access to data such as weather information is always available?
