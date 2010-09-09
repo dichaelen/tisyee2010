@@ -1,0 +1,10 @@
+Case assignments
+Company		Case		Contact			Email
+A		Terma		Amos Hoste		a_hoste@hotmail.com
+B		Systematic	Zoi Kostopoulou		zoikostopoulou@gmail.com
+C		Terma		Lasse V. Hansen		lassevh@gmail.com
+D		Systematic	Adam Enø Jensen		adam.eno@live.dk
+E		Systematic	Anders Torndahl		andtorn_f104@hotmail.com
+F		Terma		Anders H. Poder		ahpoder@gmail.com
+G		Systematic	Said Shah Alizadeh	said@alizadeh.dk
+H		Terma		Jens Klinting		jens.klinting@creuna.dk
