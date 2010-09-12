@@ -1,5 +1,6 @@
 Business:
 What is the budget / production sum?
+Any standards, regulations, policies that the solution is constrained by?
 
 Communication:
 Requirement to freqency band for communication?
