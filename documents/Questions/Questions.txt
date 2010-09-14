@@ -3,6 +3,13 @@ What is the budget / production sum?
 Any standards, regulations, policies that the solution is constrained by?
 
 Communication:
-Requirement to freqency band for communication?
-Can we assume that all persons/groups are equipped with a GPS? GPS connection is always available?
-Can we assume that access to data such as weather information is always available?
+> Requirement to freqency band for communication?
+> Can we assume that all persons/groups are equipped with a GPS? GPS connection is always available?
+> Can we assume that access to data such as weather information is always available?
+> What is the current emergency response situation, how does the police, the hospitals etc work together at
+  the moment? And what are the responsibilities of the various actors during an emergency?
+> What equipment do the various actors posses or have access to, for communication, data storage, etc.
+> What is the culture of instruction(teaching) for the various actors/organisations?
+> What are the platforms currently employed by the various actors?
+  (from the requirement:It must be possible to register events using the platforms currently employed be the various actors. )
+> The emergency management are mentioned in the case description, who are they?
