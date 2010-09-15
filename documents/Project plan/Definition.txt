@@ -1,0 +1,11 @@
+The project plan defines the work that will be done on the project and who will do it. A typical project plan consists of:
+
+1. A statement of work that describes all work products (specifications, test plans, code, defect reports, and any other product of work performed over the course of the project) that will be produced and a list of people who will perform that work
+
+2. A resource list that contains a list of all resources that will be needed for the product, and their availability
+
+3. A work breakdown structure and a set of effort estimates (described in Chapter 3)
+
+4. A project schedule (described in Chapter 4)
+
+5. A risk plan that identifies any risks that might be encountered and indicates how those risks would be handled, should they occur
