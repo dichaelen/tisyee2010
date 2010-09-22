@@ -4,8 +4,7 @@ Christian J.    20097781@iha.dk		51505603
 David           08516@iha.dk		?
 Michael N.P.    20090087@iha.dk		61400990	
 Anders T.       20090756@iha.dk		23704516
-Peter H.M.      20087291@iha.dk		51769316
-/Lise Steffensen lhs@mjolner.dk
+Peter H.M.      phm@iha.dk		51769316
 
 Terma:          mhn@terma.com, mih@terma.com, tov@terma.com
 Systematic:     Anders.Jacob.Truelsen@Systematic.com
