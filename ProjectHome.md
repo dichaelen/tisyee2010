@@ -1,0 +1,1 @@
+This is the repository for group E in the course "Systems Engineering" at IHA
